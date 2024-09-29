@@ -1,6 +1,7 @@
-# Fraud Transactions Classification
+# Fraud Detection in Financial Transactions
 
 [IMAGE FOR HEADER]
+![header2_ed.png](https://github.com/LexC/Fraud_Classifier/blob/main/assets/header2_ed.png)
 
 ## Overview
 
@@ -87,13 +88,13 @@ While the model performed well, there is room for improvement, particularly in r
 
 At the beginning of the analyses, I identified that approximately 96% of transactions under $200 account for 90% of all fraud cases, as we can see in the next image.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3fbc73fb-928d-457a-aa9d-9fc209fe1256/036b86bd-fffa-4ef1-a9f6-00a35115f0f2/image.png)
+![img1.png](https://github.com/LexC/Fraud_Classifier/blob/main/assets/img1.png)
 
 This indicates that the vast majority of fraudulent activity occurs in lower-priced purchases. However, these 4% of fraud transactions accounts for 56% of the total financial losses. This indicates that even though fraud is more frequent in lower-priced sales, the financial impact of fraud in higher-priced transactions is significantly larger. 
 
 After implementing the tuned model, the fraud rate dropped from 5% to 2%, successfully mitigating risk and protected revenue streams. More over, The model’s ability to identify high-value fraudulent transactions was particularly impactful, as these cases contribute significantly to potential financial losses. This is evidenced by having a 82% of profit into a fraud detection rate of 66% and by the image bellow.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3fbc73fb-928d-457a-aa9d-9fc209fe1256/b16a7a72-7007-4371-b74f-eb284f041877/image.png)
+![img2.png](https://github.com/LexC/Fraud_Classifier/blob/main/assets/img2.png)
 
 ### Final Considerations
 
