@@ -1,8 +1,5 @@
 # Fraud Detection in Financial Transactions
-
-[IMAGE FOR HEADER]
 ![header2_ed.png](https://github.com/LexC/Fraud_Classifier/blob/main/assets/header2_ed.png)
-
 ## Overview
 
 This project focuses on detecting fraudulent transactions within financial datasets by employing advanced data analysis and machine learning techniques. Fraud detection is crucial for businesses, particularly in sectors like e-commerce, banking, and fintech, where fraudulent activities can lead to significant financial losses and damage to customer trust. Detecting fraud is challenging due to the imbalanced nature of the data, where fraudulent transactions are rare but have a significant impact.
